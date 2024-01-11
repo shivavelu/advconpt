@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c6bc6f8-c1af-4838-ba0d-cc5f2bbaba79" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HRAxG2f5wyYpE6hIWh0rTvSfA3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.ColP">
+    <configuration name="ColP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jas.pracs.ColP" />
+      <module name="Hand_1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jas.pracs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fm.pracs.FC" />
+      <module name="Hand_1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fm.pracs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inspros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jas.pracs.Inspros" />
+      <module name="Hand_1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jas.pracs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jas.pracs.JST" />
+      <module name="Hand_1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jas.pracs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FC" />
+        <item itemvalue="Application.Inspros" />
+        <item itemvalue="Application.ColP" />
+        <item itemvalue="Application.JST" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c6bc6f8-c1af-4838-ba0d-cc5f2bbaba79" name="Default Changelist" comment="" />
+      <created>1668237766421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668237766421</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="279" key="GridCell.Tab.0.bottom" timestamp="1704935230720">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1878" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1704935230720" />
+    <state width="1878" height="279" key="GridCell.Tab.0.center" timestamp="1704935230720">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1878" height="279" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1704935230720" />
+    <state width="1878" height="279" key="GridCell.Tab.0.left" timestamp="1704935230720">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1878" height="279" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1704935230720" />
+    <state width="1878" height="279" key="GridCell.Tab.0.right" timestamp="1704935230720">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1878" height="279" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1704935230720" />
+    <state x="668" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1704934340447">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="668" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1704934340447" />
+    <state x="663" y="149" width="592" height="732" key="find.popup" timestamp="1704935752815">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="663" y="149" width="592" height="732" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1704935752815" />
+  </component>
+</project>
